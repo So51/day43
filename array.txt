@@ -1,0 +1,4 @@
+var nationality = ["Saudi", "English", "Egyption"];
+var numbers = [1, 45, 63];
+
+
